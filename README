@@ -1,0 +1,36 @@
+# Analysis of Inflation Trends in Nigeria and Their Impact on Household Purchasing Power (2020–2026)
+
+## Overview
+Inflation has become one of the biggest economic challenges facing Nigerians. As prices of food, transportation, housing, and healthcare rise, many households struggle to maintain their standard of living.
+
+This project analyzes Nigeria’s inflation trends from 2020 to 2026 using Microsoft Excel. It examines how rising prices have affected household purchasing power and consumer spending patterns.
+
+## Project Objectives
+- Analyze inflation trends in Nigeria from 2020 to 2026
+- Identify periods of significant inflation increases  
+- Examine the impact of inflation on household purchasing power
+- Present findings using pivot tables, charts, and dashboards
+- Provide data-driven recommendations
+
+## Tools Used
+- **Microsoft Excel**: Data Cleaning, Pivot Tables, Pivot Charts, Data Visualization
+
+## Methodology
+**Data Cleaning**: Removed duplicates, handled missing values, corrected inconsistencies, and formatted the dataset.  
+**Data Analysis**: Used Pivot Tables to summarize yearly inflation patterns and created charts to visualize trends.
+
+## Key Findings
+- Inflation generally increased between 2020 and 2026
+- Food prices experienced the highest increases
+- Rising transportation costs drove up living expenses
+- Household purchasing power declined significantly
+- Families adjusted by reducing discretionary spending
+
+## Conclusion
+Inflation has had a substantial impact on Nigerian households. As prices rise, many families struggle to afford basic necessities. Monitoring these trends helps policymakers, businesses, and individuals make informed financial decisions.
+
+## Recommendations
+1. Strengthen policies aimed at reducing inflation
+2. Support local agricultural production to lower food prices  
+3. Improve transportation infrastructure to reduce logistics costs
+4. Encourage better household budgeting and savings practices
